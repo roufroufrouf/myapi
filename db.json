@@ -1,70 +1,14 @@
 {
-  "recipes": [
-    {
-      "id": 1,
-      "title": "Gudeg Yogya",
-      "origin": "Yogyakarta",
-      "image": "https://upload.wikimedia.org/wikibooks/id/2/22/Ayambakarkalasan.JPG"
-    },
-    {
-      "id": 2,
-      "title": "Mi Ongklok",
-      "origin": "Wonosobo",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mi_ongklok_sate_sapi_Wonosobo.JPG"
-    },
-    {
-      "id": 3,
-      "title": "Tahu Tepo",
-      "origin": "Ngawi",
-      "image": "https://img-global.cpcdn.com/003_recipes/6e54e34877dbe92a/272x382cq50/81tahu-tepo-khas-daerah-ngawi-foto-resep-utama.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Pindang Siput",
-      "origin": "Bengkulu",
-      "image": "https://img-global.cpcdn.com/003_recipes/34a2215b713e7cc0/272x382cq50/pindang-siput-masakan-daerah-curup-bengkulu-foto-resep-utama.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Lontong Sambal",
-      "origin": "Pati",
-      "image": "https://img-global.cpcdn.com/003_recipes/d36d3e35f6d2c8da/272x382cq50/lontong-sambal-daerah-pati-foto-resep-utama.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Jalebi",
-      "origin": "Jambi",
-      "image": "https://img-global.cpcdn.com/003_recipes/25ed7e7d6aa827fb/272x382cq50/jalebi-from-india-buatan-daerah-jambi-foto-resep-utama.jpg"
-    },
-    {
-      "id": 7,
-      "title": "Pindang Serani",
-      "origin": "Jepara",
-      "image": "https://img-global.cpcdn.com/003_recipes/9c4bfe505008ba3f/272x382cq50/pindang-serani-khas-jepara-foto-resep-utama.jpg"
-    },
-    {
-      "id": 8,
-      "title": "Ayam Betutu",
-      "origin": "Bali",
-      "image": "https://img-global.cpcdn.com/003_recipes/97cc6dbdaf415a23/272x382cq50/ayam-betutu-khas-bali-pedasss-cocok-untuk-pemula-foto-resep-utama.jpg"
-    },
-    {
-      "id": 9,
-      "title": "Kembung Bakar",
-      "origin": "Padang",
-      "image": "https://img-global.cpcdn.com/003_recipes/3809a2be1fdf3d9b/272x382cq50/kembung-bakar-padang-%F0%9F%90%9F-foto-resep-utama.jpg"
-    },
-    {
-      "id": 10,
-      "title": "Rajungan Bumbu",
-      "origin": "Madura",
-      "image": "https://img-global.cpcdn.com/003_recipes/841af0ee8469417f/272x382cq50/rajungan-bumbu-pesisir-madura-campur-keong-laut-foto-resep-utama.jpg"
-    },
-    {
-      "id": 11,
-      "title": "Lakso",
-      "origin": "Sumatera Selatan",
-      "image": "https://img-global.cpcdn.com/003_recipes/5e9f88736af6fa30/272x382cq50/50lakso-foto-resep-utama.jpg"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
